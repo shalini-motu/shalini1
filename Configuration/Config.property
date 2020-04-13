@@ -1,0 +1,7 @@
+ChromeDriver=C:\\Users\\M SHALINI\\eclipse-workspace\\shalini1\\src\test\\resources\\binaries\\chromedriver.exe
+
+firefoxDriver=C:\\Users\\M SHALINI\\eclipse-workspace\\shalini1\\src\\test\\resources\\binaries\\geckodriver.exe
+
+URL=https://www.saucedemo.com/
+
+Excelpath=C:\\Users\\M SHALINI\\eclipse-workspace\\shalini1\\src\\test\\resources\\XLSX\\excelsheet.xlsx
